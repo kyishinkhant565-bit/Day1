@@ -20,3 +20,4 @@ age = int(input("Enter your age"))
 score = float(input("Enter your score "))
 
 print(f"Name: (name)")
+
